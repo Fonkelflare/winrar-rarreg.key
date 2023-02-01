@@ -7,6 +7,6 @@ Go to https://www.win-rar.com/ and download the latest version of the software (
 
 - Install WinRAR with the installation file.
 - Right click on the WinRAR shortcut, open the location of the installation folder.
-- Drag the key provided in this GitHub repository into the WinRAR installation folder.
+- Drag [the key](https://github.com/Fonkelflare/winrar-rarreg.key/releases/tag/V1) provided in this GitHub repository into the WinRAR installation folder.
 - Restart WinRAR (if the application was open).
 - Enjoy!
